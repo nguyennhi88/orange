@@ -114,7 +114,7 @@ footer{
 		
 	}
 
-.right-box{
+	.right-box{
 	 font-size:20px;
 	 position:relative;
 	 top:-50px;
@@ -122,12 +122,12 @@ footer{
 
 }
 	footer{
-		margin-top:150px
+		margin-top:150px;
 	}
 	.buttonone, .buttontwo{
 		height:30px;
 		width:35%;
-		font-size:10px
+		font-size:10px;
 	}
 
 }
